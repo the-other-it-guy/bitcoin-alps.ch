@@ -38,9 +38,12 @@ Mitglieder von „Bitcoin Alps“ können natürliche und juristische Personen w
 Finanziell
 
 - Unsere Bankverbindung für Fiat-Zahlungen: TBD
-- Unsere On-Chain Adresse: TBD
+- Bitcoin via unserem BTCPay Server:<form method="POST" action="https://pay.bitcoin-alps.ch/apps/2nZQ6Cw5dBZaDDc9udjNso2SRLMm/pos">
+  <input type="hidden" name="redirectUrl" value="https://www.bitcoin-alps.ch/spende_danke" />
+  <button type="submit" name="choiceKey" value="bitcoin alps spende"><img src="/img/bitcoin_spenden.svg" alt="Bitcoin Spende Button"></button>
+</form>
 
-Mitglieder werden
+## Mitglieder werden
 
 Du hast die Möglichkeit den Antrag auf Mitgliedschaft per Mail via\
 verein(ät)bitcoin-alps.ch zu stellen.
